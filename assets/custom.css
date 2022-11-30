@@ -1,0 +1,36 @@
+.title {
+	max-width: 1200px;
+	margin: auto;
+	text-align: center;
+}
+
+.title img{
+	width: 100%;
+}
+
+.content {
+	max-width: 1200px;
+	margin: auto;
+}
+
+.section {
+	display: grid;
+	grid-template-columns: 33% 33% 33%;
+	grid-row-gap: 20px;
+	justify-content: space-around;
+}
+
+.video-div {
+	text-align: center;
+}
+
+.sub-title h2{
+	padding-bottom: 5px;
+	margin: 20px;
+	margin-top: 40px;
+	border-bottom: 2px solid #F0F0F0;
+}
+
+li {
+	text-decoration: none;
+}
